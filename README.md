@@ -2,4 +2,4 @@
 It is a responsive CV design using HTML5 and CSS3
 
 
-Thanks <3
+Thanks 
